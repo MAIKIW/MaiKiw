@@ -3,7 +3,7 @@
 <div align="center"><B>👨‍🎓 **I am an IT & Data science student at **BSRU**.**  </B></div>
 <div align="center"><B>⭐ **And now I'm currently studying how to become a Frontend Developer.**  </B></div>
 
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif" width="300"/>
 </div>
 
