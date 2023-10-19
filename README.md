@@ -35,6 +35,11 @@
     <img src="https://img.shields.io/badge/Lua-purple?style=for-the-badge&logo=Lua&logoColor=white" alt="Lua Badge"/>
   </a>
 </div>
+<div>
+  <a href="##">
+    <img src="https://img.shields.io/badge/Visual Studio-blue?style=for-the-badge&logo=Visual Studio&logoColor=white" alt="Visual Studio Badge"/>
+  </a>
+</div>
 
 
 - 🔭 I’m currently working on ...
