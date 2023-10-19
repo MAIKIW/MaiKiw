@@ -1,4 +1,4 @@
-<h3 align="center"> Hi, Im ハジメ!</h3> 
+<h3 align="center" font-color="blue"> Hi, Im ハジメ!</h3> 
 <hr>
 <div align="center"><B>👨‍🎓 I am an IT & Data science student at BSRU.  </B></div>
 <div align="center"><B>⭐ And now I'm currently studying how to become a Frontend Developer.  </B></div>
