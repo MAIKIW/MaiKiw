@@ -42,7 +42,10 @@
   <a href="##">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-</div>
+</div>  
+
+### 〽My Stats
+https://github-readme-streak-stats.herokuapp.com/?user=MAIKIW
 
 
 - 🔭 I’m currently working on ...
