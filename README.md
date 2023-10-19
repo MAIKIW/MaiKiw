@@ -17,6 +17,16 @@
   </a>
 </div>
 
+### ⚒Tool & Language
+<div id="badges">
+  <a href="##">
+    <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML Badge"/>
+  </a>
+  <a href="https://twitter.com/kojovx">
+    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
+  </a>
+</div>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
