@@ -10,7 +10,7 @@
 ### 🌐Social  
 <div id="badges">
   <a href="https://www.instagram.com/babyqishere/">
-    <img src="https://img.shields.io/badge/Instragram-purple?style=for-the-badge&logo=Instragram&logoColor=purple" alt="Instragram Badge"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg/badge/Instragram-purple?style=for-the-badge&logo=Instragram&logoColor=purple" alt="Instragram Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
