@@ -1,4 +1,4 @@
-### Hi, Im ハジメ!
+<h3 align="center"> Hi, Im ハジメ!</h3> 
 
 👨‍🎓 **I am an IT & Data science student at **BSRU**.**  
 ⭐ **And now I'm currently studying how to become a Frontend Developer.**  
