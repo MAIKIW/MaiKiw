@@ -26,7 +26,10 @@
     <img src="https://img.shields.io/badge/css-green?style=for-the-badge&logo=css&logoColor=white" alt="Css Badge"/>
   </a>
   <a href="##">
-    <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white" alt="yellow Badge"/>
+    <img src="https://img.shields.io/badge/Javascript-orange?style=for-the-badge&logo=Javascript&logoColor=white" alt="yellow Badge"/>
+  </a>
+  <a href="##">
+    <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Lua&logoColor=white" alt="Python Badge"/>
   </a>
   <a href="##">
     <img src="https://img.shields.io/badge/Lua-purple?style=for-the-badge&logo=Lua&logoColor=white" alt="Lua Badge"/>
