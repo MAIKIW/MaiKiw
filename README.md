@@ -9,10 +9,10 @@
 
 ### 🌐Social  
 <div id="badges">
-  <a href="https://www.instagram.com/babyqishere/ target = "blank">
+  <a href="https://www.instagram.com/babyqishere/" target = "_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/kojovx">
+  <a href="https://twitter.com/kojovx" target = "_blank">
     <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
   </a>
 </div>
@@ -38,6 +38,9 @@
 <div>
   <a href="##">
     <img src="https://img.shields.io/badge/Visual Studio-blue?style=for-the-badge&logo=Visual Studio&logoColor=white" alt="Visual Studio Badge"/>
+  </a>
+  <a href="##">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Githubb&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
 
