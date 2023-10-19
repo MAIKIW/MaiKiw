@@ -28,6 +28,9 @@
   <a href="##">
     <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=yellow&logoColor=white" alt="yellow Badge"/>
   </a>
+  <a href="##">
+    <img src="https://img.shields.io/badge/Lua-dark-purple?style=for-the-badge&logo=Lua&logoColor=white" alt="Lua Badge"/>
+  </a>
 </div>
 
 
