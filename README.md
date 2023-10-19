@@ -22,8 +22,8 @@
   <a href="##">
     <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=Html&logoColor=white" alt="Html Badge"/>
   </a>
-  <a href="https://twitter.com/kojovx">
-    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
+  <a href="##">
+    <img src="https://img.shields.io/badge/css-green?style=for-the-badge&logo=css&logoColor=white" alt="Css Badge"/>
   </a>
 </div>
 
