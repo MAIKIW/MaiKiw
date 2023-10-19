@@ -4,7 +4,7 @@
 ⭐ And now I'm currently studying how to become a Frontend Developer
 
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/stickers/gojo-satoru-pufaart-kSxi9DiWH4Q8q1Kbql" width="100"/>
+  <img src="<iframe src="[https://giphy.com/stickers/gojo-satoru-pufaart-kSxi9DiWH4Q8q1Kbql](https://media.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif)" width="100"/>
 </div>
 
 Here are some ideas to get you started:
