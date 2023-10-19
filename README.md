@@ -9,7 +9,7 @@
 
 ### 🌐Social  
 <div id="badges">
-  <a href="https://www.instagram.com/babyqishere/">
+  <a href="https://www.instagram.com/babyqishere/ target = "blank">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/kojovx">
