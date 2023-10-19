@@ -1,7 +1,7 @@
 ### Hi, Im ハジメ!
 
-👨‍🎓 I am an IT & Data science student at **BSRU**.
-⭐ And now I'm currently studying how to become a Frontend Developer
+-👨‍🎓 I am an IT & Data science student at **BSRU**. -
+-⭐ And now I'm currently studying how to become a Frontend Developer -
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif" width="300"/>
