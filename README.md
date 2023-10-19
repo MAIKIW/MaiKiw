@@ -20,7 +20,7 @@
 ### ⚒Tool & Language
 <div id="badges">
   <a href="##">
-    <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML Badge"/>
+    <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=Html&logoColor=white" alt="Html Badge"/>
   </a>
   <a href="https://twitter.com/kojovx">
     <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
