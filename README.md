@@ -4,7 +4,7 @@
 <div align="center"><B>⭐ And now I'm currently studying how to become a Frontend Developer.  </B></div>
 <hr>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/OCqzpPVXOR5LbEEQbs/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/OCqzpPVXOR5LbEEQbs/giphy.gif" width="500"/>
 </div>
 
 ### 🌐Social  
