@@ -6,7 +6,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif" width="300"/>
 </div>
-
+<hr>
 ### 🌐Social  
 <div id="badges">
   <a href="https://www.instagram.com/babyqishere/" target = "_blank">
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
   </a>
 </div>
-
+<hr>
 ### ⚒Tool & Language
 <div id="badges">
   <a href="##">
