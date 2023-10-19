@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/Visual Studio-blue?style=for-the-badge&logo=Visual Studio&logoColor=white" alt="Visual Studio Badge"/>
   </a>
   <a href="##">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Githubb&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
 
