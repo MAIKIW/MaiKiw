@@ -3,7 +3,7 @@
 👨‍🎓 I am an IT & Data science student at **BSRU**.
 ⭐ And now I'm currently studying how to become a Frontend Developer
 
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif" width="300"/>
 </div>
 
