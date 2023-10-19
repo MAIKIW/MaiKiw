@@ -1,6 +1,6 @@
 ### Hi, Im ハジメ!
 
-**MAIKIW/MaiKiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 I am an IT & Data science student at **BSRU**.
 
 Here are some ideas to get you started:
 
