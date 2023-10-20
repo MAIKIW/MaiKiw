@@ -1,7 +1,7 @@
 <h3 align="center" font-color="blue"> Hi, Im Q!</h3> 
 <hr>
 <div align="center"><B>👨‍🎓 I am an IT & Data science student at BSRU.  </B></div>
-<div align="center"><B>⭐ And now I'm currently studying how to become a Frontend Developer.  </B></div>
+<div align="center"><B>⭐ And now I'm currently studying about Frontend Developer.  </B></div>
 <hr>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/OCqzpPVXOR5LbEEQbs/giphy.gif" width="500"/>
