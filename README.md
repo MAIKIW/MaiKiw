@@ -21,10 +21,10 @@
 ### ⚒Tool & Language.
 <div id="badges">
   <a href="##">
-    <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=Html&logoColor=white" alt="Html Badge"/>
+    <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=Html5&logoColor=white" alt="Html Badge"/>
   </a>
   <a href="##">
-    <img src="https://img.shields.io/badge/css-green?style=for-the-badge&logo=css&logoColor=white" alt="Css Badge"/>
+    <img src="https://img.shields.io/badge/css-green?style=for-the-badge&logo=css3&logoColor=white" alt="Css Badge"/>
   </a>
   <a href="##">
     <img src="https://img.shields.io/badge/Javascript-orange?style=for-the-badge&logo=Javascript&logoColor=white" alt="yellow Badge"/>
@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Visual Studio-blue?style=for-the-badge&logo=Visual Studio&logoColor=white" alt="Visual Studio Badge"/>
   </a>
   <a href="##">
-    <img src="https://img.shields.io/badge/Photoshop-pink?style=for-the-badge&logo=Photoshop&logoColor=white" alt="Photoshop Badge"/>
+    <img src="https://img.shields.io/badge/Photoshop-pink?style=for-the-badge&logo=Photoshop Cs6&logoColor=white" alt="Photoshop Badge"/>
   </a>
   <a href="##">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
@@ -44,7 +44,7 @@
     <p><b>:point_down: I'm currently learning.</b></p>
 <div>
   <span href="##"> 
-    <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Lua&logoColor=white" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge"/>
   </span>
   <span href="##">
     <img src="https://img.shields.io/badge/Lua-purple?style=for-the-badge&logo=Lua&logoColor=white" alt="Lua Badge"/>
