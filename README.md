@@ -1,7 +1,7 @@
 <h2 align="center" font-color="blue"> Hi, Im Q!</h2> 
 
 
-<div align="center"><B>👨‍🎓 Pre IT & Data science student at BSRU.  </B></div>
+<div align="center"><B>👨‍🎓 IT & Data science student at BSRU.  </B></div>
 <div align="center"><B>⭐ And now I'm currently studying Data Analysis and Frontend Dev.  </B></div>
 <hr>
 <div id="header" align="center">
